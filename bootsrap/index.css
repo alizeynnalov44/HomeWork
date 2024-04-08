@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    background-color:#f0f3f2 ;
+    height: 30px;
+}
+.row2{
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly;
+}

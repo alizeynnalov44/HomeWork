@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    width: 100vh;
+    height: 100vh;
+}
+.container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  text-align: center;
+    
+}
+p{
+    background-color: rgb(153, 151, 151);
+    
+}
